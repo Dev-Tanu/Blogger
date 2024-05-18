@@ -15,7 +15,7 @@ const MenuPosts = ({withImage}) => {
               Travel
             </span>
             <h3 className={styles.postTitle}>
-            Explore the world's most captivating destinations and discover the hidden gems that make travel unforgettable..
+            Explore the world&apos;s most captivating destinations and discover the hidden gems that make travel unforgettable..
             </h3>
             <div className={styles.detail}>
               <span className={styles.username}>Bhushan Pradhan</span>
